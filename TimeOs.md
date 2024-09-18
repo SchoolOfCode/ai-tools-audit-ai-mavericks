@@ -1,7 +1,14 @@
 ## 3. **timeOS**
 
 
-⌚ timeOS is an AI productivity companion that captures and summarizes your day, organizes all relevant information within the right tool, and proactively surfaces the knowledge you need, when you need it. It can be used to replace yourself with AI for meetings you don't want to attend, prepare for future meetings, and capture your day seamlessly. timeOS is free to use.
+⌚ timeOS is an AI productivity companion that captures and summarizes your day,
+ organizes all relevant information within the right tool, 
+ and proactively surfaces the knowledge you need, when you need it. 
+ It can be used to replace yourself with AI for meetings you don't want to attend, 
+ prepare for future meetings, 
+ and capture your day seamlessly. 
+ features like meeting recording, transciption, summarization adn action item tracking.
+ timeOS is free to use.
 
 A. Opportunity
 Problems it solves: Forgetting about meeting details, wasting time summarizing meetings, and missing action items.
@@ -23,4 +30,6 @@ Does the benefit outweigh the risk? Potentially, but it depends on your specific
 
 
 👌Would I recommend adoption? Maybe. It's a free tool that can save time, but it's important to weigh the benefits against the risks and ensure it meets your security and privacy requirements.
+
+
 Overall, timeOS is a promising tool that can improve meeting efficiency and productivity. However, it's important to be aware of the potential risks before adopting it.
